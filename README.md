@@ -16,7 +16,7 @@
 | **System & Infrastructure** | `Ubuntu Linux` `Docker` `Docker Compose` `Git` `Bash` |
 | **Data Pipelines & Storage** | `Apache Kafka` `Apache Spark` `Apache Airflow` `PostgreSQL` |
 | **Data Science & Analytics** | `Python` `R` `Pandas` `NumPy` `Scikit-Learn` `Statsmodels` |
-| **Product, UI/UX & Apps** | `Streamlit` `Flutter` `Grafana` |
+| **Product, UI/UX & Apps** | `JavaScript` `PHP` `Streamlit` `Flutter` `Grafana` |
 
 ---
 
